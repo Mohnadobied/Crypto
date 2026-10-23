@@ -1,0 +1,97 @@
+{
+  "Metadata": {
+    "title": "Crypto. Invest in crypto safely",
+    "description": "Buy, hold and grow Bitcoin, Ethereum and 120+ other coins from one insured wallet."
+  },
+  "Nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "news": "What's new?",
+    "cta": "Explore now",
+    "openMenu": "Open menu",
+    "switchLanguage": "العربية",
+    "switchLanguageLabel": "Switch to Arabic",
+    "primary": "Primary"
+  },
+  "Hero": {
+    "eyebrow": "Keep your money safe",
+    "title": "<w>Best</w> <g>crypto</g><br></br><l>investing platform</l><br></br><g>for your</g> <w>future.</w>",
+    "users": "{count}K+",
+    "usersLabel": "Realtime users",
+    "body": "Buy, hold and grow Bitcoin, Ethereum and 120+ other coins from one wallet. Your keys stay in cold storage, and every account is insured.",
+    "howItWorks": "See how it works",
+    "ghost": "READY"
+  },
+  "Phone": {
+    "coin": "Ethereum",
+    "today": "Today",
+    "week": "Week",
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "history": "Wallet history",
+    "earnings": "Earnings",
+    "join": "Join us in building the future.",
+    "joinBody": "Open an account in two minutes. No minimum deposit.",
+    "signIn": "Sign in",
+    "createAccount": "Create an account"
+  },
+  "Partner": {
+    "title": "<w>Your</w> <l>trusted</l> <g>partner of</g><br></br><g>cryptocurrency.</g>",
+    "body": "Since 2019 we have helped 168,000 people buy their first coin and build a portfolio. No hidden fees, no lock-in periods, and support that answers in minutes."
+  },
+  "Features": {
+    "learnMore": "Learn more",
+    "items": {
+      "expertise": {
+        "title": "Service for any level of expertise.",
+        "body": "Start with $10 and a guided first buy, or turn on advanced charts and limit orders when you're ready."
+      },
+      "practices": {
+        "title": "Industry best practices.",
+        "body": "Two-factor sign-in, withdrawal allow-lists and 95% of funds held offline in cold storage."
+      },
+      "insurance": {
+        "title": "Protected by insurance.",
+        "body": "Every account is covered up to $250,000 if a breach on our side ever affects your funds."
+      }
+    }
+  },
+  "Platform": {
+    "title": "<g>Trusted</g> <l>platform</l><br></br><w>anytime</w> <g>& anywhere.</g>",
+    "rating": "Rated 4 out of 5 by our users",
+    "p1": "Trade from the web, iOS or Android with the same account. Prices update in real time, and <b>orders fill in under a second</b> on every major pair.",
+    "p2": "Set price alerts, schedule recurring buys and <b>withdraw to your bank</b> any day of the week.",
+    "cta": "Learn more",
+    "ask": "Ask a question",
+    "deposit": "$4,528 USD",
+    "depositCaption": "Average deposit across our users last month.",
+    "btc": "144,528 BTC",
+    "btcCaption": "Held in insured cold storage today.",
+    "avgLabel": "Average rate",
+    "avgValue": "$4,528 USD",
+    "avgChange": "+45.66%",
+    "avgDate": "02 May",
+    "chartLabel": "Price chart of Bitcoin, Litecoin and Polkadot over the last month"
+  },
+  "Question": {
+    "title": "Ask a question",
+    "description": "Our support team replies by email, usually within an hour.",
+    "name": "Name",
+    "email": "Email",
+    "question": "Your question",
+    "questionPlaceholder": "For example: how long does a bank withdrawal take?",
+    "submit": "Send question",
+    "sending": "Sending…",
+    "sentTitle": "Question sent",
+    "sentBody": "We'll reply to {email} soon.",
+    "close": "Close",
+    "errors": {
+      "nameShort": "Enter your name.",
+      "emailInvalid": "Enter a valid email address, like name@example.com.",
+      "questionShort": "Write at least 10 characters so we can help.",
+      "questionLong": "Keep your question under 1,000 characters.",
+      "server": "The question wasn't sent. Check your connection and try again."
+    }
+  }
+}
